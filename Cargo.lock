@@ -1,0 +1,4 @@
+[root]
+name = "fizzbuzz_rust"
+version = "0.1.0"
+
